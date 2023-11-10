@@ -4,4 +4,8 @@ Jesus Alberto tiene 30 anos y nacio en Mexico
 
 Creando con un usuario de Colaborador el 5 de noviembre
 
+Creado el 8 de noviembre en vim a traves de el fork.
+
 Manana nos enfocaremos en su vida laboral.
+
+Jueves 9 de noviembre del 2023 no puedo hacer push
